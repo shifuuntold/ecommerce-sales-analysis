@@ -12,7 +12,7 @@ The dashboard was built using Pivot Tables, Pivot Charts, KPI cards, formulas, a
 
 ## Dataset Information
 
-**Total Transactions:** 3,501
+**Total Transactions:** 3,500
 
 ### Dataset Fields
 
