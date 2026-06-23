@@ -151,8 +151,10 @@ ecommerce-sales-analysis/
 
 ---
 
-##Author
+Author
 
 Amos Kyalo Mutunga
+
 Bachelor of Business Information Technology (BBIT)
+
 Aspiring Data Analyst | Business Intelligence Enthusiast | Data Visualization
