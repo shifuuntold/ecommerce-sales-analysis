@@ -147,9 +147,12 @@ ecommerce-sales-analysis/
 │   └── dashboard.png
 │
 └── README.md
+```
+
+---
 
 ##Author
 
-Ramon
+Amos Kyalo Mutunga
 Bachelor of Business Information Technology (BBIT)
 Aspiring Data Analyst | Business Intelligence Enthusiast | Data Visualization
